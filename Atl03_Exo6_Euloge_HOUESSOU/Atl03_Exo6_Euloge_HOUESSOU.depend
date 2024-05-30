@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710777489 source:d:\code\ atl03_exo6_euloge_houessou\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1711006475 source:d:\contrôle informatique\atl03_exo6_euloge_houessou\main.c
+	<stdio.h>
+	<stdlib.h>
+

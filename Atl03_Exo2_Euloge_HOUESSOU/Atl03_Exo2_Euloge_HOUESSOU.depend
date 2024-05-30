@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711116236 source:d:\contrôle informatique\atl03_exo2_euloge_houessou\main.c
+	<stdio.h>
+	<stdlib.h>
+

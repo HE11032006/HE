@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Cute Pairs Of Sneakers</string>
+
+    <!--Page d'accueil -->
+    <string name="home_page_title">A explorer</string>
+    <string name="home_page_last_sneakers_section">Dernières paires de Sneakers</string>
+
+    <string name="Collection_page_title">La bibliothèque de sneakers</string>
+
+    <string name="add_sneakers_page">Ajout de Sneakers</string>
+    <string name="add_sneakers_page_upload_button">Charger image</string>
+    <string name="add_sneakers_page_name">@string/home_page_Sneakers_name</string>
+    <string name="add_sneakers_page_description">@string/home_page_plant_description</string>
+
+    <string-array name="add_sneakers_page_in_fine_form_or_already_soft">
+        <item> Forme : En forme</item>
+        <item> Forme : Mou</item>
+    </string-array>
+
+    <string-array name="add_sneakers_page_size">
+
+        <item> Taille : 30-34 </item>
+        <item> Taille : 34-36 </item>
+        <item> Taille : 36-38 </item>
+        <item> Taille : 38-40 </item>
+        <item> Taille : 40-42 </item>
+        <item> Taille : 42-44 </item>
+        <item> Taille : 44-46 </item>
+        <item> Taille : 46-48 </item>
+
+    </string-array>
+
+    <string name="add_sneakers_page_CONFIRM_button">Validation</string>
+
+    <string name="windows_sneakers_name">Nom du Sneakers</string>
+    <string name="windows_sneakers_description_title">Description</string>
+    <string name="windows_sneakers_description_subtitle">Petite Description</string>
+    <string name="windows_sneakers_in_fine_form_or_already_soft_title">Forme du Sneakers</string>
+    <string name="windows_sneakers_in_fine_form_or_already_soft_subtitle">En forme</string>
+    <string name="windows_sneakers_size_title">Taille</string>
+    <string name="windows_sneakers_size_subtitle">30-34</string>
+
+
+    <string name="home_page_Sneakers_name">Nom du Sneakers</string>
+    <string name="home_page_plant_description">Description de la paire de Sneakers</string>
+
+
+</resources>

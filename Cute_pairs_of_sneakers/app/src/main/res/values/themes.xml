@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CutePairsOfSneakers" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name = "Le_style_de_texte_par_default">
+        <item name="android:textColor">@color/lightGray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/BELL</item>
+    </style>
+
+    <style name="subtitletext" parent="Le_style_de_texte_par_default">
+        <item name="android:textColor">@color/darkGray</item>
+    </style>
+
+    <style name="titletextdefault" parent="subtitletext">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+
+
+</resources>
